@@ -6,3 +6,5 @@ Tecnicas de edición y producción
 [bodegon2](2Bodegon_Objetosinternet.zip)
 ## pract 3.Vanguardia
 [bodegon](3Vanguardia.zip)
+## pract 4.4Animal+video cartel
+[bodegon](4Animal+videocartel.zip)
